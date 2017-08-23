@@ -1,0 +1,11 @@
+com\whc\aip\storage\service\impl\cabinet\CabinetServiceImpl.class
+com\whc\aip\storage\service\impl\voucher\VoucherServiceImpl.class
+com\whc\aip\storage\service\impl\member\MemberServiceImpl.class
+com\whc\aip\storage\service\impl\warehouse\WarehouseCellServiceImpl.class
+com\whc\aip\storage\service\impl\dispenser\DispensertWahoceListServiceImpl.class
+com\whc\aip\storage\service\impl\dispenser\DispensertWarehouseServiceImpl.class
+com\whc\aip\storage\service\impl\warehouse\WarehouseServiceImpl.class
+com\whc\aip\storage\service\impl\dispenser\DispensertPayServiceImpl.class
+com\whc\aip\storage\service\impl\util\UtilServiceImpl.class
+com\whc\aip\storage\service\impl\dispenser\DispensertWahoceCabinetServiceImpl.class
+com\whc\aip\storage\service\impl\order\OrderServiceImpl.class

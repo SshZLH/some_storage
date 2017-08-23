@@ -1,0 +1,5 @@
+com\whc\aip\storage\controller\warehouse\WarehouseCellController.class
+com\whc\aip\storage\controller\health\HealthController.class
+com\whc\aip\storage\controller\warehouse\WarehouseController.class
+com\whc\aip\storage\controller\pay\PayController.class
+com\whc\aip\storage\startup\Application.class

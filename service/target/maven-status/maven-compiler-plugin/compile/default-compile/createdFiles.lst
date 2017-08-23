@@ -1,0 +1,12 @@
+com\whc\aip\storage\service\dispenser\DispensertWahoceCabinetService.class
+com\whc\aip\storage\service\warehouse\WarehouseCellService.class
+com\whc\aip\storage\service\redis\RedisService.class
+com\whc\aip\storage\service\voucher\VoucherService.class
+com\whc\aip\storage\service\order\OrderService.class
+com\whc\aip\storage\service\dispenser\DispensertPayService.class
+com\whc\aip\storage\service\cabinet\CabinetService.class
+com\whc\aip\storage\service\warehouse\WarehouseService.class
+com\whc\aip\storage\service\dispenser\DispensertWarehouseService.class
+com\whc\aip\storage\service\member\MemberService.class
+com\whc\aip\storage\service\util\UtilService.class
+com\whc\aip\storage\service\dispenser\DispensertWahoceListService.class

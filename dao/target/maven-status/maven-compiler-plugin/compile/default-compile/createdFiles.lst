@@ -1,0 +1,11 @@
+com\whc\aip\storage\dao\warehouse\WahoceTypePriceMapper.class
+com\whc\aip\storage\dao\order\OrderMapper.class
+com\whc\aip\storage\dao\warehouse\WarehouseMapper.class
+com\whc\aip\storage\dao\warehouse\ImmediateWahocePriceMapper.class
+com\whc\aip\storage\dao\cabinet\CabinetMapper.class
+com\whc\aip\storage\dao\warehouse\WahoCellRecordMapper.class
+com\whc\aip\storage\dao\order\OrderRenewMapper.class
+com\whc\aip\storage\dao\warehouse\WarehouseCellMapper.class
+com\whc\aip\storage\dao\member\MemberMapper.class
+com\whc\aip\storage\dao\warehouse\WahoceTypeMapper.class
+com\whc\aip\storage\dao\voucher\VoucherMapper.class
